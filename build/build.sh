@@ -3,7 +3,7 @@
 # Assembler configuration
 ASSEMBLER="my-assembler"  # Replace with the name or path of your assembler
 SOURCE_FILE="main.asm"   # Replace with the name of your main source code file
-OUTPUT_FILE="game.nes"   # Replace with the desired name of your output ROM file
+OUTPUT_FILE="ar3na.nes"   # Replace with the desired name of your output ROM file
 
 # Assemble the source code
 $ASSEMBLER $SOURCE_FILE -o output.obj
